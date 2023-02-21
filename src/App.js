@@ -1,11 +1,11 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
-import Skills from "./components/Skills";
+import Skills from "./components/skills/Skills";
 import Contact from "./components/Contact";
-import Work from "./components/Work";
-import Education from "./components/Education";
-import Leetcode from "./components/Leetcode";
+import Work from "./components/work/Work";
+import Education from "./components/education/Education";
+import Coding from "./components/coding/Coding";
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Skills />
       <Work />
       <Education />
-      <Leetcode />
+      <Coding />
       <Contact />
     </div>
   );

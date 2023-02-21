@@ -1,7 +1,7 @@
 import React from 'react'
 import SkillCard from './SkillCard'
 
-const SkillSGrid = (props) => {
+const SkillsGrid = (props) => {
     const {ob, desc } = props
     return (
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
@@ -18,4 +18,4 @@ const SkillSGrid = (props) => {
     )
 }
 
-export default SkillSGrid
+export default SkillsGrid
