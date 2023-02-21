@@ -21,15 +21,17 @@ const College = (props) => {
                     className="h-full w-full"
                     />
                 </CardHeader>
-                <CardBody className="text-center bg-[#0e2432] h-52">
+                <CardBody className="text-center bg-[#0e2432] h-fit">
                     <p className='flex text-xl font-bold'>{clgName}</p>
                     <p className='flex text-m text-gray-300'>{degree} in {major}</p>
+                    <p className='w-fit'>
                     { activities.map((acti,indx) => (
                         <li className='list-disc text-left text-s text-gray-500' key ={indx} >{acti}</li>
                         ))
                     }
+                    </p>
                 </CardBody>
-                <CardFooter divider className="flex items-center justify-between py-3">
+                <CardFooter divider className="flex items-center justify-between py-3 h-fit">
                     <Typography variant="small" className="flex p-1 gap-1"><SlCalender  size={20}/> {clgDuration}</Typography>
                     <Typography variant="small" className="flex gap-1">
                     <i className="fas fa-map-marker-alt fa-sm mt-[3px]" />
