@@ -1,5 +1,5 @@
 import React from 'react'
-import {educData} from '../data/educationData';
+import {educData} from '../../data/educationData';
 
 import College from './College';
 const Education = () => {

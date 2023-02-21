@@ -1,6 +1,6 @@
 import React from 'react'
 import Project from './Project'
-import {projectMeta} from '../data/projectMetadata'
+import {projectMeta} from '../../data/projectMetadata'
 
 
 const Work = () => {

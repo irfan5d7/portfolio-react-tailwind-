@@ -1,5 +1,5 @@
 import React,{useState, useEffect} from 'react'
-import { leetCode_api, tempdata, user_name } from '../data/constants';
+import { leetCode_api, tempdata, user_name } from '../../data/constants';
 import { SiLeetcode } from "react-icons/si"
 
 const Leetcode = () => {
