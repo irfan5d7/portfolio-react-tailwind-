@@ -14,7 +14,7 @@ const Work = () => {
                 <p className='py-6'>// Check out some of my recent work</p>
             </div>
 
-            <div className='w-full grid grid-cols-2 sm:grid-cols-2 gap-10 text-center py-8'>
+            <div className='w-full  grid grid-cols-1 sm:grid-cols-2 gap-10 text-center py-8'>
                 {projectMeta.map((p) => (
                     <Project proj = {p} key={p.id} />
                 ))}
