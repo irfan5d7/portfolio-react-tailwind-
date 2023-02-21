@@ -5,6 +5,7 @@ import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Work from "./components/Work";
 import Education from "./components/Education";
+import Leetcode from "./components/Leetcode";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Skills />
       <Work />
       <Education />
+      <Leetcode />
       <Contact />
     </div>
   );

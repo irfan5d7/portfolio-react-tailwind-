@@ -11,6 +11,7 @@ import { SiLeetcode } from "react-icons/si"
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import {Link} from 'react-scroll'
 import Resume from '../assets/resume/Irfan Ahmed Mohammad.pdf'
+import dp from '../assets/resume/mrnd.jpeg'
 
 
 const Navbar = () => {
@@ -19,7 +20,10 @@ const Navbar = () => {
     setNav(!nav)
   }
   return (
-    <div className='fixed z-50 w-full h-20 flex justify-between items-center px-4 bg bg-[#0a192f] text-gray-300'>
+    <div className='fixed z-50 w-full h-20 flex justify-between items-center px-4 bg bg-[#0a182d] text-gray-300 shadow-md shadow-[#040c16]'>
+      <div>
+        <img src={dp} alt='dp' class="h-20 mr-3 sm:h-9 rounded-lg" />
+      </div>
       {/* main menu  */}
       <div>
         <ul className='hidden md:flex'>
