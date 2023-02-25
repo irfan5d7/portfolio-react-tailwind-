@@ -13,7 +13,7 @@ const Home = () => {
             I'm a Full Stack Developer.
             </h2>
             <p className='text-[#8892b0] py-4 max-w-[700px]'>
-            Experienced Software Engineer with about 4 years of experience in Software Industry, currently pursuing Master’s degree in Computer Science at University of North Texas.
+            Experienced Software Engineer with about 3+ years of experience in Software Industry, currently pursuing Master’s degree in Computer Science at University of North Texas.
             </p>
             <div>
             <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
