@@ -29,7 +29,7 @@ const Project = (props) => {
                 <p className='flex text-xs text-left  text-gray-500'>TechStack : {techStack.join(", ")}</p>
             </CardBody>
             <CardFooter divider className="flex items-center justify-between py-3 h-fit">
-            <Typography variant="small" className="flex gap-1 p-1 gap-1"><SlCalender  size={20}/> {duration}</Typography>
+            <Typography variant="small" className="flex p-1 gap-1"><SlCalender  size={20}/> {duration}</Typography>
                 <Typography variant="small" className="flex gap-1">
                 <i className="fas fa-map-marker-alt fa-sm mt-[3px]" />
                 <HiOutlineLocationMarker />{location}
