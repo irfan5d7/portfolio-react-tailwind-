@@ -9,6 +9,7 @@ import Coding from "./components/coding/Coding";
 
 
 function App() {
+  document.title = "Irfan Ahmed Mohammad";
   return (
     <div>
       <Navbar />

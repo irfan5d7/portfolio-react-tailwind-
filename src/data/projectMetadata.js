@@ -3,8 +3,18 @@ import AmazonImg from '../assets/projects/amazon.png'
 import TcsImg from '../assets/projects/tcs.png'
 import JuspayImg from '../assets/projects/juspay.png'
 import SolivarImg from '../assets/projects/solivar.jpeg'
+import Primeth from '../assets/projects/primeth.png'
 
 export const projectMeta = [
+	{
+		id: 'p5',
+        name: 'Prime Therapeutics',
+		title: 'Java Developer',
+		img: Primeth,
+		location: "Texas (Remote)",
+		duration: "Jan 2023 - current",
+		techStack: ['Java', 'Spring Boot', 'MongoDB', 'Rabbit MQ', 'Apache Kafka', 'Swagger', 'Docker']
+	},
 	{
 		id: 'p1',
         name: 'Amazon',
