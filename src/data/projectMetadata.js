@@ -41,7 +41,7 @@ export const projectMeta = [
 		title: 'Software Development Engineer',
 		img: JuspayImg,
 		location: "Bengaluru, India",
-		duration: "Dec 2018 - May 2019",
+		duration: "Jan 2019 - May 2019",
 		techStack : ['Java', 'Spring Boot', 'React', 'Hibernate', 'MongoDB', 'HTML/CSS/JavaScript', 'AWS', 'Git', 'Jenkins']
 	},
 	{
@@ -50,7 +50,7 @@ export const projectMeta = [
 		title: 'Software Engineer',
 		img: SolivarImg,
 		location: "Visakhapatnam, India",
-		duration: "Jan 2018 - Aug 2018",
+		duration: "Jan 2018 - Dec 2018",
 		techStack: ['Python', 'ReactJs', 'Django', 'AWS', 'SQL', 'REST', 'HTML/CSS/JavaScript', 'Git']
 	},
 ];
