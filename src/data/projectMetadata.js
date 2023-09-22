@@ -1,6 +1,6 @@
 
 import AmazonImg from '../assets/projects/amazon.png'
-import TcsImg from '../assets/projects/tcs.png'
+import AppleImg from '../assets/projects/apple.jpg'
 import JuspayImg from '../assets/projects/juspay.png'
 import SolivarImg from '../assets/projects/solivar.jpeg'
 import Primeth from '../assets/projects/primeth.png'
@@ -11,7 +11,7 @@ export const projectMeta = [
         name: 'Prime Therapeutics',
 		title: 'Java Developer',
 		img: Primeth,
-		location: "Texas (Remote)",
+		location: "Denton, Texas(Remote)",
 		duration: "Jan 2023 - current",
 		techStack: ['Java', 'Spring Boot', 'MongoDB', 'Rabbit MQ', 'Apache Kafka', 'Swagger', 'Docker']
 	},
@@ -20,16 +20,16 @@ export const projectMeta = [
         name: 'Amazon',
 		title: 'Software Development Engineer Intern',
 		img: AmazonImg,
-		location: "Seattle, WA",
+		location: "Denton, Texas(Remote)",
 		duration: "May 2022 - Aug 2022",
 		techStack: ['Python', 'Scala', 'ReactJs', 'Django', 
 		'AWS', 'MongoDB','CloudWatch', 'Alpine Dashboards']
 	},
 	{
 		id: 'p2',
-		name: 'Tata Consultancy Services',
+		name: 'Apple',
 		title: 'Software Engineer',
-		img: TcsImg,
+		img: AppleImg,
 		location: "Hyderabad, India",
 		duration: "Jun 2019 - July 2021",
 		techStack: ['Python', 'Java', 'Scala', 'ReactJs', 'Spring Boot', 'Hibernate', 'Django', 
@@ -41,7 +41,7 @@ export const projectMeta = [
 		title: 'Software Development Engineer',
 		img: JuspayImg,
 		location: "Bengaluru, India",
-		duration: "Jan 2019 - May 2019",
+		duration: "Dec 2018 - May 2019",
 		techStack : ['Java', 'Spring Boot', 'React', 'Hibernate', 'MongoDB', 'HTML/CSS/JavaScript', 'AWS', 'Git', 'Jenkins']
 	},
 	{
@@ -50,7 +50,7 @@ export const projectMeta = [
 		title: 'Software Engineer',
 		img: SolivarImg,
 		location: "Visakhapatnam, India",
-		duration: "June 2018 - Dec 2018",
+		duration: "Jan 2018 - Aug 2018",
 		techStack: ['Python', 'ReactJs', 'Django', 'AWS', 'SQL', 'REST', 'HTML/CSS/JavaScript', 'Git']
 	},
 ];
