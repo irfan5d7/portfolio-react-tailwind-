@@ -17,11 +17,7 @@ const About = () => {
                   <p>Hi. I'm Irfan Ahmed, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                  <p>I am passionate about building excellent software that improves
-                  the lives of those around me. I specialize in creating software
-                  for clients ranging from individuals and small-businesses all the
-                  way to large enterprise corporations. What would you do if you had
-                  a software expert available at your fingertips?</p>  
+                  <p>I specialize in a wide range of technologies, from full-stack web development to cloud solutions on AWS. My track record includes successfully handling projects that involve migration, optimization, and the implementation of the latest tools and technologies, reflecting my ability to deliver efficient, scalable, and user-centric software solutions.</p>  
                 </div>
               </div>
           </div>
