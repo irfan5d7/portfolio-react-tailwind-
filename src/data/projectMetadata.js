@@ -9,11 +9,11 @@ export const projectMeta = [
 	{
 		id: 'p5',
         name: 'Prime Therapeutics',
-		title: 'Java Developer',
+		title: 'Software Developer',
 		img: Primeth,
 		location: "Denton, Texas(Remote)",
 		duration: "Jan 2023 - current",
-		techStack: ['Java', 'Spring Boot', 'MongoDB', 'Rabbit MQ', 'Apache Kafka', 'Swagger', 'Docker']
+		techStack: ['Java', 'Spring Boot', 'ReactJS', 'MongoDB', 'Rabbit MQ', 'Apache Kafka', 'Swagger', 'Docker']
 	},
 	{
 		id: 'p1',
@@ -22,8 +22,8 @@ export const projectMeta = [
 		img: AmazonImg,
 		location: "Denton, Texas(Remote)",
 		duration: "May 2022 - Aug 2022",
-		techStack: ['Python', 'Scala', 'ReactJs', 'Django', 
-		'AWS', 'MongoDB','CloudWatch', 'Alpine Dashboards']
+		techStack: ['Java', 'Scala', 'ReactJs', 'Spring Boot', 
+		'AWS','CloudWatch', 'Alpine Dashboards']
 	},
 	{
 		id: 'p2',
