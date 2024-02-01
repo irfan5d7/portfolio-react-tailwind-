@@ -14,7 +14,7 @@ const Home = () => {
             I'm a Full Stack Developer.
             </h2>
             <p className='text-[#8892b0] py-4 max-w-[700px]'>
-            Experienced Software Engineer with about 5+ years of experience in Software Industry and a Master’s degree in Computer Science from University of North Texas.
+            Experienced Software Engineer with about 4 years of experience in Software Industry and a Master’s degree in Computer Science from University of North Texas.
             </p>
             <div>
             <Link to='work' smooth={true} duration={500}>
