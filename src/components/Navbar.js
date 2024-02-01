@@ -10,7 +10,7 @@ import { HiOutlineMail } from 'react-icons/hi'
 import { SiLeetcode } from "react-icons/si"
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import {Link} from 'react-scroll'
-import Resume from '../assets/resume/Irfan Ahmed Mohammad.pdf'
+import Resume from '../assets/resume/Irfan_Ahmed_Mohammad_Resume_2024.pdf'
 import dp from '../assets/resume/mrnd.jpeg'
 
 
