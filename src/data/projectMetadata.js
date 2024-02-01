@@ -38,7 +38,7 @@ export const projectMeta = [
 	{
 		id: 'p3',
 		name: 'Juspay Technologies',
-		title: 'Software Development Engineer',
+		title: 'Software Development Engineer Intern',
 		img: JuspayImg,
 		location: "Bengaluru, India",
 		duration: "Jan 2019 - May 2019",
@@ -47,7 +47,7 @@ export const projectMeta = [
 	{
 		id: 'p4',
 		name: 'Solivar Labs',
-		title: 'Software Engineer',
+		title: 'Jr. Software Developer',
 		img: SolivarImg,
 		location: "Visakhapatnam, India",
 		duration: "Jan 2018 - Dec 2018",
