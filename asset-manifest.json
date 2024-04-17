@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4fe0204d.css",
+    "main.js": "/portfolio/static/js/main.4ed693f3.js",
+    "static/media/Irfan_Ahmed_Mohammad_Resume_2024.pdf": "/portfolio/static/media/Irfan_Ahmed_Mohammad_Resume_2024.df804bf5112f12e0a19a.pdf",
+    "static/media/python.png": "/portfolio/static/media/python.52d7bb207f9868b90e39.png",
+    "static/media/gvp.jpeg": "/portfolio/static/media/gvp.9ff63a034f36733e6b0a.jpeg",
+    "static/media/primeth.png": "/portfolio/static/media/primeth.680688d55447c96885c5.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.94f201ce44348763e6a5.png",
+    "static/media/scala.png": "/portfolio/static/media/scala.6956dd520b59cdd866a3.png",
+    "static/media/apple.jpg": "/portfolio/static/media/apple.287b99c8daa73a1aedae.jpg",
+    "static/media/mrnd.jpeg": "/portfolio/static/media/mrnd.ee82a2a27b9adb78d953.jpeg",
+    "static/media/redux.png": "/portfolio/static/media/redux.7ea723c9435ca6efc295.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/java.png": "/portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.dfdc5cfed56f981dfa78.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/kubernetes.png": "/portfolio/static/media/kubernetes.19aa99d8e783ad8d1f6f.png",
+    "index.html": "/portfolio/index.html",
+    "main.4fe0204d.css.map": "/portfolio/static/css/main.4fe0204d.css.map",
+    "main.4ed693f3.js.map": "/portfolio/static/js/main.4ed693f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe0204d.css",
+    "static/js/main.4ed693f3.js"
+  ]
+}
